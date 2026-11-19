@@ -36,6 +36,10 @@ Benötigte Berechtigungen und wofür:
 - **Vibrieren:** optional bei Akku-Hinweisen
 - **Akku-Optimierung ausnehmen:** nur auf Wunsch, damit Samsung die App im Hintergrund nicht beendet
 
+## Datenschutzerklärung
+
+Ausführlich: [DATENSCHUTZ.md](DATENSCHUTZ.md)
+
 ## Kontakt
 
 TikTok: [@emanuelefan](https://www.tiktok.com/@emanuelefan)
