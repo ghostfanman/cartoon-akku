@@ -1,6 +1,6 @@
 # Datenschutzerklärung für Cartoon Akku
 
-Stand: 19. November 2026
+Stand: 21. November 2026
 
 Anbieter der App: Emanuele Fanizza
 
@@ -29,6 +29,7 @@ Deine Einstellungen (Figur, Stil, Farben, Position der Anzeige, Hinweise) speich
 - **Beim Gerätestart ausführen:** startet diese Funktionen nach einem Neustart wieder, wenn du das eingestellt hast
 - **Vibrieren:** optional bei Akku-Hinweisen
 - **Akku-Optimierung ausnehmen:** nur wenn du es in der App auswählst
+- **Nutzungsdatenzugriff (optional):** nur wenn du die automatische Pause einschaltest und den Zugriff selbst in den Android-Einstellungen erteilst. Die App prüft damit, welche App gerade im Vordergrund ist, um ihre Einblendungen in den von dir gewählten Apps auszublenden. Diese Information wird nicht gespeichert und verlässt das Gerät nicht.
 
 ## Links in der App
 

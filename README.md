@@ -6,7 +6,7 @@ Dein Akku wird zum Cartoon. Eine Android-App von Emanuele Fanizza.
 
 ## Download
 
-**[CartoonAkku-2.4.apk herunterladen](../../releases/latest)**
+**[CartoonAkku-2.5.apk herunterladen](../../releases/latest)**
 
 Die Datei liegt unter „Releases“ rechts auf dieser Seite. Dort steht auch die Prüfsumme (SHA-256).
 
@@ -18,6 +18,7 @@ Die Datei liegt unter „Releases“ rechts auf dieser Seite. Dort steht auch di
 - Hinweise bei niedrigem Akku, erreichtem Ladeziel und zu hoher Temperatur
 - Schwebende Anzeige, Widget für den Startbildschirm, Bildschirmschoner
 - Echte Akkuwerte: Prozent, Temperatur, Spannung, Ladestrom
+- Pause für Kamera- und Berechtigungsabfragen: per Schnelleinstellung, Benachrichtigung oder automatisch in gewählten Apps (z. B. Brave, Chrome)
 
 ## Installation
 
@@ -35,6 +36,7 @@ Benötigte Berechtigungen und wofür:
 - **Beim Start ausführen:** startet die Funktionen nach einem Neustart wieder
 - **Vibrieren:** optional bei Akku-Hinweisen
 - **Akku-Optimierung ausnehmen:** nur auf Wunsch, damit Samsung die App im Hintergrund nicht beendet
+- **Nutzungsdatenzugriff:** optional, nur für die automatische Pause in gewählten Apps
 
 ## Datenschutzerklärung
 
